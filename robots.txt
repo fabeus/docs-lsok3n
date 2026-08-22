@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-do10cf.menang123bbd.site/sitemap.xml
